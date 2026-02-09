@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<style>
+		.s0 { opacity: .94;fill: #ea9e24 } 
+		.s1 { opacity: .43;fill: #18140f } 
+	</style>
+	<g id="Background">
+		<path id="Path 0" class="s0" d="m0 15l2-7 5-5 5-2h8l5 2 6 8v10l-6 7-4 2-13-1-2-3h-2l-4-9z"/>
+		<path id="Path 1" fill-rule="evenodd" class="s1" d="m0 31h32v-30h-12l5 2 6 8v10l-6 7-4 2-13-1-2-3h-2l-4-9zm2-23l5-5 5-2h-12v14zm7 5l-2 1 2 1v2l-2 1h2v7l14-1 1-2h2l1-4h2l-2-2 2-1v-2h-2v-2l-4-4-15-1z"/>
+		<path id="Path 2" class="s0" d="m13 7l8 1 2 2v3h-10zm0 8l11 1-11 1zm0 3h10v3l-4 3h-6z"/>
+	</g>
+</svg>
